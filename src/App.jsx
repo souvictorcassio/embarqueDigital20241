@@ -1,30 +1,31 @@
-import {BrowserRouter as Router, Routes, Route} from 'react-router-dom'
-import Recipes from './pages/recipes/Recipes'
-import Occasions from './pages/occasions/Occasions'
-import Indications from './pages/indications/Indications'
-import Support from './pages/support/Support'
-import Navbar from './components/layout/Navbar'
-import Footer from './components/layout/Footer'
-import Container from './components/layout/Container'
+import {
+  BrowserRouter as Router,
+  Routes,
+  Route
+} from "react-router-dom"
 
+import Navbar from "./components/Navbar";
+import Footer from "./components/Footer";
+
+import Home from "./pages/Home";
+import Recipes from "./pages/Recipes";
+import Indications from "./pages/Indications";
 
 function App() {
   
   return (
     <Router>
       <Navbar />
-        <Container customClass="min-height">
+        <div className="container main">
           <Routes>
-            <Route path='/recipes' element={<Recipes />} />
-            <Route path='/occasions' element={<Occasions />}/>
-            <Route path='/indications' element={<Indications />}/>
-            <Route path='/support' element={<Support />}/>
+            <Route path="/" element={<Home />}/>
+            <Route path="/recipes" element={<Recipes />}/>
+            <Route path="/indications" element={<Indications />}/>
           </Routes>
-        </Container>
-        <Footer/>
+        </div>
+      <Footer />
     </Router>
-  );
-
+  )
 }
 
 export default App;
