@@ -90,7 +90,7 @@ img{
 
 @import "partials/hero-section";
 @import "partials/discovery-section";
-
+@import "partials/carrossel";
 .footer{
     background-color: #6b5236;
     color: #fff;
@@ -117,20 +117,20 @@ img{
 }
 
 .container{
-    padding-inline: 25vw;
+    padding-inline:25vw;
 }
 
 @import "partials/animation.scss";
 
 @media screen and (max-width: 1280px) {
     .container{
-        padding-inline: 18vw;
+        padding-inline: 10vw;
     }
 }
 
 @media screen and (max-width: 1050px) {
     .container{
-        padding-inline: 12vw;
+        padding-inline: 18vw;
     }
 }
 
@@ -157,7 +157,7 @@ img{
     }
     .section.discovery-places .btn{
         display: block;
-        margin-left: 50%;
+        margin-left: 0%;
         transform: translateX(-50%);
     }
     .container{
