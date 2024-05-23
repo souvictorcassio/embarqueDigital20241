@@ -9,6 +9,8 @@ import { motion } from 'framer-motion';
     'img/Carrossel/img002.jpg',
     'img/Carrossel/img003.jpg',
     'img/Carrossel/img004.jpg',
+    'img/Carrossel/img005.jpg',
+    'img/Carrossel/img006.jpeg'
 ];
 
 function Carrossel() {
