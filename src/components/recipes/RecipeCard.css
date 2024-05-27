@@ -28,17 +28,18 @@
   margin-top: 15px;
 }
 
-.recipe-details ul {
-  list-style: none;
-  padding: 0;
+.recipe-details h4 {
+  margin-bottom: 10px;
 }
 
-.recipe-details ul li {
+.recipe-details ul,
+.recipe-details ol {
+  padding-left: 20px;
+}
+
+.recipe-details ul li,
+.recipe-details ol li {
   margin-bottom: 5px;
-}
-
-.recipe-details p {
-  margin: 10px 0;
 }
 
 .recipe-card button {

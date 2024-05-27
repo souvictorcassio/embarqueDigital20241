@@ -10,21 +10,25 @@ import Footer from "./components/Footer";
 import Home from "./pages/Home";
 import Recipes from "./pages/Recipes";
 import Indications from "./pages/Indications";
+import FavoriteRecipes from "./pages/FavoriteRecipes"; // Importação da nova página
+import { FavoritesProvider } from './components/recipes/FavoritesContext'; // Importação do Provider
 
 function App() {
-  
   return (
-    <Router>
-      <Navbar />
+    <FavoritesProvider>
+      <Router>
+        <Navbar />
         <div className="container main">
           <Routes>
-            <Route path="/" element={<Home />}/>
-            <Route path="/recipes" element={<Recipes />}/>
-            <Route path="/indications" element={<Indications />}/>
+            <Route path="/" element={<Home />} />
+            <Route path="/recipes" element={<Recipes />} />
+            <Route path="/indications" element={<Indications />} />
+            <Route path="/favorites" element={<FavoriteRecipes />} /> {/* Nova rota */}
           </Routes>
         </div>
-      <Footer />
-    </Router>
+        <Footer />
+      </Router>
+    </FavoritesProvider>
   )
 }
 

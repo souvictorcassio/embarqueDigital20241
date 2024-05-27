@@ -1,5 +1,4 @@
 import { Link, useLocation } from "react-router-dom"
-
 import { useState } from "react"
 import Sidebar from "./Sidebar"
 
@@ -13,15 +12,20 @@ export default function Navbar(){
         },
         {
             name: "Receitas",
-            path: "/Recipes"
+            path: "/recipes"
         },
         {
             name: "Indico Sabor",
-            path: "/Indications"
+            path: "/indications"
+        },
+        {
+            
+            name: "Favoritadas",
+            path: "/favorites"
         },
         {
             name: "Chama o Chef",
-            path: "/Support"
+            path: "/support"
         }
     ]
 
