@@ -12,7 +12,7 @@ export default function DiscoveryPlaces(){
     return (
         <div className="section discovery-places">
             <div className="col img">
-                <img src="/img/gallery/gatorestaurante.jpg" alt="" />
+                <img src="/img/home/gatorestaurante.jpg" alt="" />
             </div>
             <div className="col typography">
                 <h1 className="tittle"> Novos sabores </h1>

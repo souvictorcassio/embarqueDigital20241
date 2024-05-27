@@ -1,0 +1,323 @@
+{
+  "recipes": [
+    {
+      "id": 1,
+      "title": "Brigadeiro",
+      "summary": "Um doce típico brasileiro feito com leite condensado, chocolate em pó e granulado.",
+      "image": "/images/brigadeiro.jpg",
+      "preparation_method": [
+        "Em uma panela, misture o leite condensado, o chocolate em pó e a manteiga.",
+        "Leve ao fogo médio, mexendo sempre até desgrudar do fundo da panela.",
+        "Despeje a mistura em um prato e deixe esfriar.",
+        "Faça bolinhas com a massa e passe no granulado."
+      ],
+      "ingredients": [
+        "1 lata de leite condensado",
+        "2 colheres de sopa de chocolate em pó",
+        "1 colher de sopa de manteiga",
+        "Chocolate granulado para decorar"
+      ],
+      "category": "Sobremesa",
+      "prepTime": "30 minutos"
+    },
+    {
+      "id": 2,
+      "title": "Pão de Queijo",
+      "summary": "Tradicional pãozinho brasileiro feito com polvilho e queijo.",
+      "image": "/images/paodequeijo.jpg",
+      "preparation_method": [
+        "Pré-aqueça o forno a 180°C.",
+        "Em uma panela, ferva o leite com o óleo e o sal.",
+        "Despeje a mistura sobre o polvilho e mexa bem.",
+        "Adicione os ovos e o queijo ralado, misturando até obter uma massa homogênea.",
+        "Faça bolinhas com a massa e coloque em uma assadeira.",
+        "Asse por cerca de 25 minutos ou até dourar."
+      ],
+      "ingredients": [
+        "500g de polvilho doce",
+        "1 xícara de leite",
+        "1/2 xícara de óleo",
+        "1 colher de chá de sal",
+        "2 ovos",
+        "200g de queijo ralado"
+      ],
+      "category": "Lanche",
+      "prepTime": "40 minutos"
+    },
+    {
+      "id": 3,
+      "title": "Feijoada",
+      "summary": "Um prato tradicional brasileiro feito com feijão preto e uma variedade de carnes.",
+      "image": "/images/feijoada.jpg",
+      "preparation_method": [
+        "Deixe o feijão de molho por pelo menos 12 horas.",
+        "Cozinhe o feijão na panela de pressão até ficar macio.",
+        "Em outra panela, refogue a cebola e o alho no óleo.",
+        "Adicione as carnes e deixe dourar.",
+        "Acrescente o feijão cozido e o louro, e deixe cozinhar por mais 30 minutos.",
+        "Tempere com sal e pimenta a gosto."
+      ],
+      "ingredients": [
+        "500g de feijão preto",
+        "1 cebola picada",
+        "3 dentes de alho picados",
+        "2 colheres de sopa de óleo",
+        "200g de carne seca",
+        "200g de linguiça",
+        "200g de costelinha de porco",
+        "2 folhas de louro",
+        "Sal e pimenta a gosto"
+      ],
+      "category": "Prato Principal",
+      "prepTime": "2 horas"
+    },
+    {
+      "id": 4,
+      "title": "Acarajé",
+      "summary": "Bolinho de feijão-fradinho frito no azeite de dendê, típico da Bahia.",
+      "image": "/images/acaraje.jpg",
+      "preparation_method": [
+        "Deixe o feijão-fradinho de molho por 12 horas.",
+        "Triture o feijão com a cebola e o alho até formar uma massa.",
+        "Modele bolinhos com a massa e frite-os no azeite de dendê."
+      ],
+      "ingredients": [
+        "500g de feijão-fradinho",
+        "1 cebola picada",
+        "2 dentes de alho",
+        "Azeite de dendê para fritar"
+      ],
+      "category": "Lanche",
+      "prepTime": "1 hora"
+    },
+    {
+      "id": 5,
+      "title": "Moqueca Baiana",
+      "summary": "Peixe cozido com leite de coco, azeite de dendê, pimentões e outros temperos.",
+      "image": "/images/moqueca_baiana.jpg",
+      "preparation_method": [
+        "Tempere o peixe com sal, pimenta e limão.",
+        "Em uma panela, aqueça o azeite de dendê e refogue a cebola, o alho e os pimentões.",
+        "Adicione o peixe e cozinhe com o leite de coco até ficar macio."
+      ],
+      "ingredients": [
+        "1 kg de peixe",
+        "1 cebola picada",
+        "2 dentes de alho picados",
+        "1 pimentão vermelho em rodelas",
+        "1 pimentão verde em rodelas",
+        "200 ml de leite de coco",
+        "Azeite de dendê",
+        "Sal e pimenta a gosto",
+        "Suco de 1 limão"
+      ],
+      "category": "Prato Principal",
+      "prepTime": "45 minutos"
+    },
+    {
+      "id": 6,
+      "title": "Carne de Sol com Nata",
+      "summary": "Carne de sol servida com molho de nata e acompanhamentos.",
+      "image": "/images/carne_de_sol_com_nata.jpg",
+      "preparation_method": [
+        "Deixe a carne de sol de molho por 24 horas, trocando a água várias vezes.",
+        "Cozinhe a carne até ficar macia e desfie.",
+        "Prepare o molho de nata e sirva sobre a carne."
+      ],
+      "ingredients": [
+        "1 kg de carne de sol",
+        "500 ml de nata",
+        "1 cebola picada",
+        "2 dentes de alho picados",
+        "Sal e pimenta a gosto"
+      ],
+      "category": "Prato Principal",
+      "prepTime": "1 hora"
+    },
+    {
+      "id": 7,
+      "title": "Baião de Dois",
+      "summary": "Prato típico nordestino feito com arroz, feijão, carne seca e queijo coalho.",
+      "image": "/images/baiao_de_dois.jpg",
+      "preparation_method": [
+        "Cozinhe o feijão até ficar macio.",
+        "Em outra panela, refogue a cebola e o alho no óleo.",
+        "Adicione a carne seca desfiada, o arroz e o feijão cozido.",
+        "Cozinhe até o arroz ficar macio e adicione o queijo coalho no final."
+      ],
+      "ingredients": [
+        "1 xícara de feijão verde ou feijão-de-corda",
+        "1 xícara de arroz",
+        "200g de carne seca dessalgada e desfiada",
+        "200g de queijo coalho em cubos",
+        "1 cebola picada",
+        "2 dentes de alho picados",
+        "2 colheres de sopa de óleo",
+        "Sal a gosto"
+      ],
+      "category": "Prato Principal",
+      "prepTime": "1 hora"
+    },
+    {
+      "id": 8,
+      "title": "Cuscuz Nordestino",
+      "summary": "Prato típico feito com farinha de milho e acompanhado de diversos ingredientes.",
+      "image": "/images/cuscuz_nordestino.jpg",
+      "preparation_method": [
+        "Hidrate a farinha de milho com água e sal.",
+        "Cozinhe em cuscuzeira até ficar firme.",
+        "Sirva com manteiga, leite ou outros acompanhamentos a gosto."
+      ],
+      "ingredients": [
+        "2 xícaras de farinha de milho",
+        "1 xícara de água",
+        "Sal a gosto",
+        "Acompanhamentos a gosto (manteiga, leite, etc.)"
+      ],
+      "category": "Lanche",
+      "prepTime": "20 minutos"
+    },
+    {
+      "id": 9,
+      "title": "Bolo de Rolo",
+      "summary": "Tradicional bolo pernambucano feito com finas camadas de massa e goiabada.",
+      "image": "/images/bolo_de_rolo.jpg",
+      "preparation_method": [
+        "Prepare uma massa fina com farinha, açúcar, ovos e manteiga.",
+        "Asse finas camadas de massa e enrole com goiabada derretida entre as camadas."
+      ],
+      "ingredients": [
+        "250g de farinha de trigo",
+        "250g de açúcar",
+        "250g de manteiga",
+        "5 ovos",
+        "300g de goiabada derretida"
+      ],
+      "category": "Sobremesa",
+      "prepTime": "1 hora"
+    },
+    {
+      "id": 10,
+      "title": "Tapioca",
+      "summary": "Goma de tapioca hidratada e recheada com diversos ingredientes.",
+      "image": "/images/tapioca.jpg",
+      "preparation_method": [
+        "Peneire a goma de tapioca hidratada.",
+        "Aqueça uma frigideira e espalhe a goma, formando um disco.",
+        "Recheie a gosto e dobre ao meio."
+      ],
+      "ingredients": [
+        "500g de goma de tapioca hidratada",
+        "Recheios a gosto (queijo, coco ralado, leite condensado, etc.)"
+      ],
+      "category": "Lanche",
+      "prepTime": "10 minutos"
+    },
+    {
+      "id": 11,
+      "title": "Arroz de Hauçá",
+      "summary": "Prato baiano de arroz cozido com leite de coco e carne-seca desfiada.",
+      "image": "/images/arroz_de_hauca.jpg",
+      "preparation_method": [
+        "Cozinhe o arroz com leite de coco.",
+        "Desfie a carne-seca e refogue com cebola e alho.",
+        "Misture a carne ao arroz e sirva."
+      ],
+      "ingredients": [
+        "2 xícaras de arroz",
+        "500 ml de leite de coco",
+        "200g de carne-seca desfiada",
+        "1 cebola picada",
+        "2 dentes de alho picados",
+        "Sal a gosto"
+      ],
+      "category": "Prato Principal",
+      "prepTime": "45 minutos"
+    },
+    {
+      "id": 12,
+      "title": "Vatapá",
+      "summary": "Prato baiano feito com pão, leite de coco, camarão, amendoim e azeite de dendê.",
+      "image": "/images/vatapa.jpg",
+      "preparation_method": [
+        "Umedeça o pão com leite de coco.",
+        "Bata no liquidificador com camarão, amendoim e azeite de dendê.",
+        "Cozinhe até formar um creme espesso."
+      ],
+      "ingredients": [
+        "500g de pão dormido",
+        "1 litro de leite de coco",
+        "300g de camarão seco",
+        "100g de amendoim torrado",
+        "100ml de azeite de dendê",
+        "Sal a gosto"
+      ],
+      "category": "Prato Principal",
+      "prepTime": "1 hora"
+    },
+    {
+      "id": 13,
+      "title": "Caldinho de Sururu",
+      "summary": "Caldo típico feito com marisco sururu, leite de coco e temperos.",
+      "image": "/images/caldinho_de_sururu.jpg",
+      "preparation_method": [
+        "Refogue cebola, alho e tomate no azeite.",
+        "Adicione o sururu e cozinhe com leite de coco.",
+        "Tempere com sal e pimenta e sirva quente."
+      ],
+      "ingredients": [
+        "500g de sururu",
+        "1 cebola picada",
+        "2 dentes de alho picados",
+        "2 tomates picados",
+        "200ml de leite de coco",
+        "Azeite de oliva",
+        "Sal e pimenta a gosto"
+      ],
+      "category": "Prato Principal",
+      "prepTime": "30 minutos"
+    },
+    {
+      "id": 14,
+      "title": "Sarapatel",
+      "summary": "Prato feito com miúdos de porco ou carneiro, cozidos com temperos.",
+      "image": "/images/sarapatel.jpg",
+      "preparation_method": [
+        "Lave os miúdos e corte em pedaços pequenos.",
+        "Refogue cebola, alho e pimentão no azeite.",
+        "Adicione os miúdos e cozinhe com vinagre e temperos."
+      ],
+      "ingredients": [
+        "500g de miúdos de porco ou carneiro",
+        "1 cebola picada",
+        "2 dentes de alho picados",
+        "1 pimentão picado",
+        "50ml de vinagre",
+        "Azeite de oliva",
+        "Sal e pimenta a gosto"
+      ],
+      "category": "Prato Principal",
+      "prepTime": "1 hora"
+    },
+    {
+      "id": 15,
+      "title": "Peixe à Delícia",
+      "summary": "Peixe frito coberto com molho de banana, queijo e creme de leite.",
+      "image": "/images/peixe_a_delicia.jpg",
+      "preparation_method": [
+        "Tempere o peixe e frite.",
+        "Cubra com rodelas de banana, queijo e creme de leite.",
+        "Gratine no forno até dourar."
+      ],
+      "ingredients": [
+        "1 kg de filé de peixe",
+        "3 bananas cortadas em rodelas",
+        "200g de queijo ralado",
+        "200ml de creme de leite",
+        "Sal e pimenta a gosto"
+      ],
+      "category": "Prato Principal",
+      "prepTime": "40 minutos"
+    }
+  ]
+}

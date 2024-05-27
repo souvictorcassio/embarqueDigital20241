@@ -1,0 +1,18 @@
+.recipes-page {
+  padding: 16px;
+}
+
+.filter-container {
+  display: flex;
+  justify-content: flex-start;
+  margin-bottom: 16px;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+@media (max-width: 768px) {
+  .filter-container {
+    flex-direction: column;
+    align-items: stretch;
+  }
+}

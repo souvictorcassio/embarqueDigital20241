@@ -2,15 +2,15 @@ import CustomImage from "./CostumeImage"
 
 export default function HeroSection() {
     const images =[
-        "/img/gallery/pizzamedia_1.jpg",
-        "/img/gallery/pizzamedia_2.jpg",
-        "/img/gallery/pizzamedia_3.jpg",
-        "/img/gallery/pizzamedia_4.jpg",
-        "/img/gallery/pizzamedia_5.jpg",
-        "/img/gallery/pizzamedia_6.jpg",
-        "/img/gallery/pizzamedia_7.jpg",
-        "/img/gallery/pizzamedia_8.jpg",
-        "/img/gallery/pizzamedia_9.jpg"
+        "/img/home/pizzamedia_1.jpg",
+        "/img/home/pizzamedia_2.jpg",
+        "/img/home/pizzamedia_3.jpg",
+        "/img/home/pizzamedia_4.jpg",
+        "/img/home/pizzamedia_5.jpg",
+        "/img/home/pizzamedia_6.jpg",
+        "/img/home/pizzamedia_7.jpg",
+        "/img/home/pizzamedia_8.jpg",
+        "/img/home/pizzamedia_9.jpg"
     ]
     return (
         <div className="section hero">
