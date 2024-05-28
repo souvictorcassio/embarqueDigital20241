@@ -1,3 +1,4 @@
+// SearchBar.jsx
 import React from 'react';
 import './SearchBar.css';
 

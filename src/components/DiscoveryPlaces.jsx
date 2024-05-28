@@ -1,26 +1,30 @@
-export default function DiscoveryPlaces(){
+// DiscoveryPlaces.jsx
 
-    const list = [
-        "Encontre um novo sabor",
-        "Sabor vegano",
-        "Regional da terra",
-        "Água na boca",
-        "Danado de bom",
-        "Tasty!!!"
-    ]
+import { Link } from "react-router-dom";
+import CarrosselDiscovery from "./CarrosselDiscovery";
 
-    return (
-        <div className="section discovery-places">
-            <div className="col img">
-                <img src="/img/home/gatorestaurante.jpg" alt="" />
-            </div>
-            <div className="col typography">
-                <h1 className="tittle"> Novos sabores </h1>
-                { list.map((item, index) => (
-                    <p className="discovery-item" key={index}>{item}</p>
-                ))}
-                <button className="btn"> Descubra agora </button>
-            </div>
-        </div>
-    )
+export default function DiscoveryPlaces() {
+  const list = [
+    "Encontre um novo sabor",
+    "Sabor vegano",
+    "Regional da terra",
+    "Água na boca",
+    "Danado de bom",
+    "Tasty!!!"
+  ];
+
+  return (
+    <div className="section discovery-places">
+      <div className="col img">
+        <CarrosselDiscovery /> {/* Substitua a imagem estática pelo carrossel */}
+      </div>
+      <div className="col typography">
+        <h1 className="tittle">Indico sabor</h1>
+        {list.map((item, index) => (
+          <p className="discovery-item" key={index}>{item}</p>
+        ))}
+        <Link to="/indications" className="btn">Descubra agora</Link>
+      </div>
+    </div>
+  );
 }

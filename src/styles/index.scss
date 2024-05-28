@@ -1,11 +1,11 @@
 :root{
-    --background-color: #fff;
+    --background-color: #fff8e1;
     --background-light: #fff;
     --shadow-color: rgba(0,0,0,0.2);
     --primary-color: #ea7c00;
     --text-color: #413728;
     --text-light: #575757;
-    --font-size: 16px;
+    --font-size: 18px;
     --animation-speed: 1;
 }
 
@@ -22,7 +22,11 @@
 body{
     font-size: var(--font-size);
     padding-top: 55px;
-}
+    background-color: var(--background-color);
+    line-height: 1.6;
+    margin: 0;
+    font-family: Arial, sans-serif;
+  }
 
 a{
     text-decoration: none;
@@ -117,7 +121,8 @@ img{
 }
 
 .container{
-    padding-inline:25vw;
+    padding-inline:20vw;
+    
 }
 
 @import "partials/animation.scss";
@@ -179,4 +184,3 @@ img{
         padding-inline: 3vw;
     }
 }
-
