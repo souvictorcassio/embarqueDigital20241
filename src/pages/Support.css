@@ -1,0 +1,42 @@
+.support-page {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+  }
+  
+  .support-form {
+    width: 100%;
+    max-width: 600px;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .form-group {
+    margin-bottom: 15px;
+  }
+  
+  .form-group label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  .form-group input {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+  }
+  
+  .submit-button {
+    padding: 10px 20px;
+    border: 1px solid #ddd;
+    background-color: #fff;
+    cursor: pointer;
+    align-self: center;
+  }
+  
+  .submit-button:hover {
+    background-color: #eee;
+  }
+  
