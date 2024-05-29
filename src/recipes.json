@@ -326,7 +326,7 @@
     },
     {
       "id": 16,
-      "title": "Bobó de camarão",
+      "title": "Bobó de Camarão",
       "summary": "O bobó de camarão é um prato típico da culinária baiana e popular em diversos estados brasileiros.",
       "image": "/images/bobo.jpg",
       "preparation_method": [
@@ -358,7 +358,7 @@
     },
     {
       "id": 17,
-      "title": "Panelada piauiense",
+      "title": "Panelada Piauiense",
       "summary": "Um dos pratos de destaque no Piauí é a panelada, uma receita que apresenta um sabor bastante característico e saboroso. A receita, tipicamente, leva ingredientes como bucho, tripas, mocotó e nervo de boi e temperos à gosto.",
       "image": "/images/bobo.jpg",
       "preparation_method": [
@@ -414,7 +414,7 @@
     },
     {
       "id": 19,
-      "title": "Bolo souza leão",
+      "title": "Bolo Souza leão",
       "summary": "O bolo souza leão é um doce brasileiro típico de Pernambuco, por isso traz consigo a cara da festa junina. Essa sobremesa nos remete à músicas de são joão, noites frias e bebidas quentes, com muita alegria, bandeirinhas e fogueiras.",
       "image": "/images/bobo.jpg",
       "preparation_method": [
@@ -447,7 +447,7 @@
     },
     {
       "id": 20,
-      "title": "Pé - de - moleque",
+      "title": "Pé-de-Moleque",
       "summary": "O pé de moleque é um doce típico da culinária brasileira, feito a partir da mistura de amendoim torrado com rapadura.",
       "image": "/images/bobo.jpg",
       "preparation_method": [
@@ -502,7 +502,7 @@
     },
     {
       "id": 22,
-      "title": "Bolinho de mandioca",
+      "title": "Bolinho de Mandioca",
       "summary": "Que tal uma receita de bolinho de mandioca recheado com queijo para se deliciar no lanche da tarde ou final do dia?",
       "image": "/images/bobo.jpg",
       "preparation_method": [
@@ -528,7 +528,7 @@
 
     {
       "id": 23,
-      "title": "Camarão na moranga",
+      "title": "Camarão na Moranga",
       "summary": " Esta receita une a textura única dos camarões com a imponência e o sabor característico da moranga, resultando em um prato que não apenas encanta os olhos, mas também faz a festa no paladar",
       "image": "/images/bobo.jpg",
       "preparation_method": [
