@@ -1,4 +1,7 @@
 .recipe-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
   border: 1px solid #ddd;
   padding: 20px;
   border-radius: 10px;
@@ -7,6 +10,9 @@
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   background-color: #fff;
   position: relative;
+  font-size: 16px; /* Padrão de tamanho de fonte */
+  height: 100%; /* Para garantir que os cards tenham a mesma altura */
+  min-height: 400px; /* Define uma altura mínima para os cards */
 }
 
 .recipe-card.expanded {
@@ -26,6 +32,7 @@
 .recipe-card h3 {
   font-size: 1.5em;
   margin-bottom: 10px;
+  text-align: center;
 }
 
 .recipe-image {
@@ -39,10 +46,12 @@
 .recipe-details {
   text-align: left;
   margin-top: 15px;
+  flex-grow: 1; /* Para ocupar o espaço disponível */
 }
 
 .recipe-details h4 {
   margin-bottom: 10px;
+  font-size: 1.2em;
 }
 
 .recipe-details ul,
@@ -53,6 +62,11 @@
 .recipe-details ul li,
 .recipe-details ol li {
   margin-bottom: 5px;
+  font-size: 1em;
+}
+
+.recipe-buttons {
+  margin-top: 20px;
 }
 
 .recipe-card button {
@@ -65,6 +79,7 @@
   border-radius: 5px;
   cursor: pointer;
   transition: background-color 0.3s;
+  font-size: 1em; /* Padrão de tamanho de fonte */
 }
 
 .recipe-card button:hover {

@@ -11,10 +11,14 @@ const Recipes = () => {
   const [searchTerm, setSearchTerm] = useState('');
   const [selectedCategory, setSelectedCategory] = useState('');
   const [currentPage, setCurrentPage] = useState(1);
-  const recipesPerPage = 9;
+  const recipesPerPage = 8; // Corrigido para 8 cards por página
 
   useEffect(() => {
-    setRecipes(recipesData.recipes); // Ajuste para acessar o array dentro do objeto
+    // Ordena as receitas em ordem alfabética pelo título
+    const sortedRecipes = [...recipesData.recipes].sort((a, b) =>
+      a.title.localeCompare(b.title)
+    );
+    setRecipes(sortedRecipes);
   }, []);
 
   const filteredRecipes = recipes.filter(

@@ -2,9 +2,9 @@
   "recipes": [
     {
       "id": 1,
-      "title": "Brigadeiro",
+      "title": "Cocada Nordestina",
       "summary": "Um doce típico brasileiro feito com leite condensado, chocolate em pó e granulado.",
-      "image": "/img/recipes/Brigadeiro.jpg",
+      "image": "",
       "preparation_method": [
         "Em uma panela, misture o leite condensado, o chocolate em pó e a manteiga.",
         "Leve ao fogo médio, mexendo sempre até desgrudar do fundo da panela.",
@@ -22,54 +22,58 @@
     },
     {
       "id": 2,
-      "title": "Pão de Queijo",
-      "summary": "Tradicional pãozinho brasileiro feito com polvilho e queijo.",
-      "image": "/images/paodequeijo.jpg",
+      "title": "Bobó de Cogumelos",
+      "summary": "O Bobó de Cogumelos é uma versão vegetariana do prato tradicional nordestino, feito com cogumelos, mandioca, leite de coco e temperos.",
+      "image": "/images/bobo_de_cogumelos.jpg",
       "preparation_method": [
-        "Pré-aqueça o forno a 180°C.",
-        "Em uma panela, ferva o leite com o óleo e o sal.",
-        "Despeje a mistura sobre o polvilho e mexa bem.",
-        "Adicione os ovos e o queijo ralado, misturando até obter uma massa homogênea.",
-        "Faça bolinhas com a massa e coloque em uma assadeira.",
-        "Asse por cerca de 25 minutos ou até dourar."
+        "Descasque e corte a mandioca em pedaços pequenos.",
+        "Cozinhe a mandioca em água fervente até que fique macia. Escorra e reserve.",
+        "Em uma panela grande, refogue a cebola e o alho no azeite até dourar.",
+        "Adicione os cogumelos cortados e refogue por mais alguns minutos.",
+        "Acrescente a mandioca cozida e amassada, o leite de coco e o caldo de legumes.",
+        "Cozinhe por cerca de 15 minutos, mexendo ocasionalmente, até que os cogumelos estejam macios e o bobó esteja cremoso.",
+        "Tempere com sal, pimenta e coentro a gosto.",
+        "Sirva quente acompanhado de arroz branco."
       ],
       "ingredients": [
-        "500g de polvilho doce",
-        "1 xícara de leite",
-        "1/2 xícara de óleo",
-        "1 colher de chá de sal",
-        "2 ovos",
-        "200g de queijo ralado"
+        "500g de cogumelos frescos (shitake, shimeji, champignon, etc.)",
+        "500g de mandioca",
+        "1 cebola grande picada",
+        "3 dentes de alho picados",
+        "200ml de leite de coco",
+        "500ml de caldo de legumes",
+        "Sal e pimenta a gosto",
+        "Coentro fresco picado para decorar",
+        "Azeite de oliva"
       ],
-      "category": "Lanche",
+      "category": "Prato Principal",
       "prepTime": "40 minutos"
     },
     {
-      "id": 3,
-      "title": "Feijoada",
-      "summary": "Um prato tradicional brasileiro feito com feijão preto e uma variedade de carnes.",
-      "image": "/images/feijoada.jpg",
+      "id": 29,
+      "title": "Torta de Banana da Terra",
+      "summary": "A Torta de Banana da Terra é uma sobremesa deliciosa e tradicional do Nordeste brasileiro, feita com bananas maduras e uma massa macia e aromática.",
+      "image": "/images/torta_banana_terra.jpg",
       "preparation_method": [
-        "Deixe o feijão de molho por pelo menos 12 horas.",
-        "Cozinhe o feijão na panela de pressão até ficar macio.",
-        "Em outra panela, refogue a cebola e o alho no óleo.",
-        "Adicione as carnes e deixe dourar.",
-        "Acrescente o feijão cozido e o louro, e deixe cozinhar por mais 30 minutos.",
-        "Tempere com sal e pimenta a gosto."
+        "Em uma tigela, misture a farinha de trigo, o açúcar, o fermento, o sal e a canela em pó.",
+        "Adicione os ovos ligeiramente batidos e a manteiga derretida, misturando até formar uma massa homogênea.",
+        "Em uma forma untada e enfarinhada, disponha as bananas cortadas em rodelas.",
+        "Despeje a massa sobre as bananas, espalhando uniformemente.",
+        "Leve ao forno preaquecido a 180°C por aproximadamente 40 minutos, ou até que a torta esteja dourada e firme ao toque.",
+        "Retire do forno, deixe esfriar um pouco e desenforme."
       ],
       "ingredients": [
-        "500g de feijão preto",
-        "1 cebola picada",
-        "3 dentes de alho picados",
-        "2 colheres de sopa de óleo",
-        "200g de carne seca",
-        "200g de linguiça",
-        "200g de costelinha de porco",
-        "2 folhas de louro",
-        "Sal e pimenta a gosto"
+        "4 bananas-da-terra maduras",
+        "2 xícaras de farinha de trigo",
+        "1 xícara de açúcar",
+        "2 ovos",
+        "1/2 xícara de manteiga derretida",
+        "1 colher de sopa de fermento em pó",
+        "1/2 colher de chá de sal",
+        "1 colher de chá de canela em pó"
       ],
-      "category": "Prato Principal",
-      "prepTime": "2 horas"
+      "category": "Sobremesa",
+      "prepTime": "50 minutos"
     },
     {
       "id": 4,
@@ -623,12 +627,73 @@
       "category": "Lanche",
       "prepTime": "30 minutos"
       
+    },
+    {
+      "id": 26,
+      "title": "Doce de Coco Queimado",
+      "summary": "O Doce de Coco Queimado é uma sobremesa tradicional do Nordeste brasileiro, com sabor único e irresistível.",
+      "image": "/images/doce_coco_queimado.jpg",
+      "preparation_method": [
+        "Em uma panela, coloque o coco ralado, o açúcar e a água.",
+        "Leve ao fogo médio, mexendo sempre, até obter um doce espesso e levemente queimado.",
+        "Desligue o fogo e deixe esfriar antes de servir."
+      ],
+      "ingredients": [
+        "1 coco seco ralado",
+        "2 xícaras de açúcar",
+        "1 xícara de água"
+      ],
+      "category": "Sobremesa",
+      "prepTime": "30 minutos"
+    },
+    {
+      "id": 27,
+      "title": "Pudim de Tapioca",
+      "summary": "O Pudim de Tapioca é uma sobremesa cremosa e saborosa, muito apreciada no Nordeste brasileiro.",
+      "image": "/images/pudim_tapioca.jpg",
+      "preparation_method": [
+        "Em uma tigela, misture a tapioca com o leite e deixe hidratar por 30 minutos.",
+        "No liquidificador, bata os ovos, o leite condensado e o coco ralado.",
+        "Adicione essa mistura à tapioca hidratada e mexa bem.",
+        "Despeje em uma forma de pudim caramelizada com o açúcar.",
+        "Leve ao forno em banho-maria a 180°C por cerca de 1 hora ou até firmar.",
+        "Deixe esfriar e leve à geladeira antes de desenformar."
+      ],
+      "ingredients": [
+        "200g de tapioca granulada",
+        "1 litro de leite",
+        "1 lata de leite condensado",
+        "3 ovos",
+        "100g de coco ralado",
+        "1 xícara de açúcar"
+      ],
+      "category": "Sobremesa",
+      "prepTime": "1 hora e 30 minutos"
+    },
+    {
+      "id": 28,
+      "title": "Cuscuz de Tapioca",
+      "summary": "O Cuscuz de Tapioca é uma sobremesa gelada e refrescante, perfeita para os dias quentes do Nordeste brasileiro.",
+      "image": "/images/cuscuz_tapioca.jpg",
+      "preparation_method": [
+        "Em uma tigela, misture a tapioca com o leite de coco e o leite.",
+        "Adicione o leite condensado e o coco ralado, mexendo bem.",
+        "Deixe descansar por cerca de 1 hora, até a tapioca absorver o líquido.",
+        "Transfira a mistura para uma forma de pudim untada e polvilhe canela em pó por cima.",
+        "Leve à geladeira por pelo menos 4 horas ou até firmar.",
+        "Desenforme e sirva gelado."
+      ],
+      "ingredients": [
+        "500g de tapioca granulada",
+        "1 litro de leite de coco",
+        "1 xícara de leite",
+        "1 lata de leite condensado",
+        "100g de coco ralado",
+        "Canela em pó a gosto"
+      ],
+      "category": "Lanche",
+      "prepTime": "5 horas e 30 minutos"
     }
-   
-    
-    
-    
-    
   ]
   
 }

@@ -29,7 +29,6 @@ const RecipeCard = ({ recipe }) => {
         <img src={recipe.image || defaultImage} alt={recipe.title} className="recipe-image" />
         <div className="recipe-details">
           <div className="recipe-summary">{recipe.summary}</div>
-          <button onClick={toggleRecipe}>{showRecipe ? 'Ocultar Receita' : 'Ver Receita'}</button>
           {showRecipe && (
             <div className="recipe-info">
               <h4>Ingredientes:</h4>
@@ -46,6 +45,9 @@ const RecipeCard = ({ recipe }) => {
               </ol>
             </div>
           )}
+        </div>
+        <div className="recipe-buttons">
+          <button onClick={toggleRecipe}>{showRecipe ? 'Ocultar Receita' : 'Ver Receita'}</button>
           <button onClick={handleFavoriteClick}>{isFavorited ? 'Desfavoritar' : 'Favoritar'}</button>
         </div>
       </div>
