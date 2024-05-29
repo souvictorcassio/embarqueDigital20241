@@ -495,6 +495,134 @@
       "category": "Sobremesa",
       "prepTime": "40 minutos"
       
+    },
+    {
+      "id": 22,
+      "title": "Bolinho de mandioca",
+      "summary": "Que tal uma receita de bolinho de mandioca recheado com queijo para se deliciar no lanche da tarde ou final do dia?",
+      "image": "/images/bobo.jpg",
+      "preparation_method": [
+        "Coloque a mandioca em um recipiente e adicione o sal, a pimenta, a farinha e o ovo.",
+        "Misture uniformemente até firmar bem e acrescente a cebolinha.",
+        "Modele os bolinhos do tamanho que quiser com as mãos umedecidas.",
+        "Frite os bolinhos em óleo aquecido e retire-os assim que dourar. Deixe escorrer em um papel-toalha.",
+        "Sirva imediatamente e aproveite."
+        
+      ],
+      "ingredients": [
+        "1 quilograma de mandioca cozida amassada",
+        "4 colheres de sopa de farinha trigo",
+        "1 ovo grande",
+        "Cebolinha, pimenta-do-reino e sal a gosto"
+       
+       
+      ],
+      "category": "Lanche",
+      "prepTime": "20 minutos"
+      
+    },
+
+    {
+      "id": 23,
+      "title": "Camarão na moranga",
+      "summary": " Esta receita une a textura única dos camarões com a imponência e o sabor característico da moranga, resultando em um prato que não apenas encanta os olhos, mas também faz a festa no paladar",
+      "image": "/images/bobo.jpg",
+      "preparation_method": [
+        "Retire a tampa e as sementes da moranga.",
+        "Lave e enrole-a em papel alumínio e leve ao forno médio (180° C) por 45 minutos.",
+        "Em uma panela, aqueça o azeite e refogue o alho e a cebola, junte o camarão e deixe cozinhar por 5 minutos.",
+        "Adicione os tomates picados, a pimenta, o sal e o ketchup.",
+        "Desligue o fogo e acrescente o creme de leite e o cheiro-verde.",
+        "Misture bem e adicione por último o requeijão.",
+        "Passe um pouco de requeijão no interior da moranga e despeje o creme de camarão."
+        
+      ],
+      "ingredients": [
+        "1 abóbora moranga",
+        "4 colheres de sopa de azeite (ou a gosto)",
+        "1 cebola",
+        "2 dentes de alho",
+        "1 kg de camarão médio fresco",
+        "Sal e pimenta-do-reino a gosto",
+        "3 tomates",
+        "3 colheres de sopa de ketchup",
+        "1 lata de creme de leite sem soro (300 gramas)",
+        "300 gramas de requeijão cremoso"
+
+       
+      ],
+      "category": "Lanche",
+      "prepTime": "1 hora e 30 minutos"
+      
+    },
+    {
+      "id": 24,
+      "title": "Bacalhoada",
+      "summary": "creme de bacalhau com cebolo e batata.",
+      "image": "/images/bobo.jpg",
+      "preparation_method": [
+        "dorar o bacalhau com azeite",
+        "adicionar a cebola e dora-la",
+        "adiconar milho verde, azeitona e batata",
+        "mistura de todos",
+        "adicionar o creme de leite",
+        "Sirva imediatamente e aproveite."
+        
+      ],
+      "ingredients": [
+        "800 gramas de bacalhau desfiado e dessalgado",
+        "6 cebolas picadas",
+        "meio kilo de batata inglesa em cubos",
+        "azeitona sem caroço",
+        "milho verde",
+        "creme de leite",
+        "azeite"
+       
+       
+      ],
+      "category": "Lanche",
+      "prepTime": "40 minutos"
+      
+    },
+    {
+      "id": 25,
+      "title": "Maria Isabel",
+      "summary": " uma comida típica do Piauí, que consiste num misturado de arroz com carne-de-sol.",
+      "image": "/images/bobo.jpg",
+      "preparation_method": [
+        "Em uma panela com azeite, frite o charque.",
+        "Acrescente alho, cebola, pimentão, pimenta de cheiro, pimenta dedo-de-moça e refogue bem.",
+        "Inclua água, sal, colorau e pimenta-do-reino e cozinhe até ferver.",
+        "Adicione o arroz e cozinhe até secar.",
+        "Tampe a panela e siga cozinhando, até criar uma crosta na parte de baixo.",
+        "Finalize com cheiro-verde.",
+        "Frite o ovo.",
+        "Sirva o arroz com o ovo frito e a banana. Bom apetite."
+        
+      ],
+      "ingredients": [
+        "Azeite a gosto",
+        "1 pacote de charque dessalgado",
+        "2 dentes de alho",
+        "1/2 cebola",
+        "1/2 pimentão pequeno",
+        "1 pimenta de cheiro",
+        "1/2 pimenta dedo-de-moça",
+        "4 xícaras de água",
+        "Sal a gosto",
+        "Colorau a gosto",
+        "Pimenta-do-reino a gosto",
+        "1 e 1/2 xícara de arroz integral",
+        "Cheiro-verde a gosto",
+        "1 ovo",
+        "1 banana"
+  
+       
+       
+      ],
+      "category": "Lanche",
+      "prepTime": "30 minutos"
+      
     }
    
     
