@@ -1,4 +1,4 @@
-// CategoryFilter.jsx
+
 import React from 'react';
 import './CategoryFilter.css';
 

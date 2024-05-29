@@ -1,4 +1,4 @@
-// RecipeList.jsx
+
 import React from 'react';
 import RecipeCard from './RecipeCard';
 import './RecipeList.css';

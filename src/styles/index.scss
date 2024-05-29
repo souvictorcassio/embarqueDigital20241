@@ -17,6 +17,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: Arial, sans-serif;
 }
 
 body{
@@ -25,7 +26,7 @@ body{
     background-color: var(--background-color);
     line-height: 1.6;
     margin: 0;
-    font-family: Arial, sans-serif;
+    
   }
 
 a{
@@ -42,6 +43,7 @@ img{
     background-color: var(--primary-color);
     color: #fff;
     padding: .75em .1em;
+    
     text-transform: uppercase;
     font-size: 1.1em;
     font-weight: bold;
@@ -90,6 +92,13 @@ img{
     .col{
         width: 50%;
     }
+}
+
+.tittle1{
+    color: var(--text-color);
+    font-size: 2.5em;
+    margin-bottom: .25em;
+    font-weight: 900;
 }
 
 @import "partials/hero-section";

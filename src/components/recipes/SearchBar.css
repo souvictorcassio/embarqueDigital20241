@@ -1,9 +1,8 @@
-/* SearchBar.css */
 .search-bar {
   padding: 10px;
-  font-size: 18px; /* Ajuste do tamanho da fonte */
+  font-size: 18px;
   width: 100%;
-  max-width: 400px; /* Limite de largura */
+  max-width: 400px;
   border: 1px solid #ddd;
   border-radius: 5px;
   margin: 0 auto;

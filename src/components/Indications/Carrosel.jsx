@@ -1,8 +1,8 @@
-// src/components/CarouselComponent.js
+
 import React from 'react';
 import { Carousel } from 'react-responsive-carousel';
 import 'react-responsive-carousel/lib/styles/carousel.min.css';
-import './Carrosel.css'; // Adicione estilos personalizados
+import './Carrosel.css';
 
 const Carrosel = ({ title, images }) => {
     return (

@@ -1,22 +1,20 @@
-// DiscoveryPlaces.jsx
-
 import { Link } from "react-router-dom";
 import CarrosselDiscovery from "./CarrosselDiscovery";
 
 export default function DiscoveryPlaces() {
   const list = [
     "Encontre um novo sabor",
-    "Sabor vegano",
     "Regional da terra",
-    "Água na boca",
+    "Cheiro de casa",
     "Danado de bom",
-    "Tasty!!!"
+    "Comida de mãe",
+    "Água na boca"
   ];
 
   return (
     <div className="section discovery-places">
       <div className="col img">
-        <CarrosselDiscovery /> {/* Substitua a imagem estática pelo carrossel */}
+        <CarrosselDiscovery /> 
       </div>
       <div className="col typography">
         <h1 className="tittle">Indico sabor</h1>

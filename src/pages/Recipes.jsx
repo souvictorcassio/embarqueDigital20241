@@ -3,7 +3,7 @@ import RecipeList from '../components/recipes/RecipeList';
 import SearchBar from '../components/recipes/SearchBar';
 import CategoryFilter from '../components/recipes/CategoryFilter';
 import Pagination from '../components/recipes/Pagination';
-import recipesData from '../recipes.json'; // Caminho relativo
+import recipesData from '../recipes.json';
 import './Recipes.css';
 
 const Recipes = () => {
@@ -11,10 +11,10 @@ const Recipes = () => {
   const [searchTerm, setSearchTerm] = useState('');
   const [selectedCategory, setSelectedCategory] = useState('');
   const [currentPage, setCurrentPage] = useState(1);
-  const recipesPerPage = 8; // Corrigido para 8 cards por página
+  const recipesPerPage = 8;
 
   useEffect(() => {
-    // Ordena as receitas em ordem alfabética pelo título
+    
     const sortedRecipes = [...recipesData.recipes].sort((a, b) =>
       a.title.localeCompare(b.title)
     );
@@ -41,7 +41,7 @@ const Recipes = () => {
         <SearchBar searchTerm={searchTerm} onSearch={setSearchTerm} />
         <CategoryFilter selectedCategory={selectedCategory} onSelectCategory={(category) => {
           setSelectedCategory(category);
-          setCurrentPage(1); // Resetar para a primeira página ao mudar de categoria
+          setCurrentPage(1);
         }} />
       </div>
       <RecipeList recipes={currentRecipes} />

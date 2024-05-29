@@ -2,9 +2,9 @@ import React, { useState, useEffect, useRef } from 'react';
 import { motion } from 'framer-motion';
 
 const myImages = [
-  'img/Carrossel/img001.jpg',
-  'img/Carrossel/img002.jpg',
-  'img/Carrossel/img003.jpg'
+  'img/Carrossel/acaraje_.jpg',
+  'img/Carrossel/bolo_de_rolo_.jpeg',
+  'img/Carrossel/canjica_.png'
 ];
 
 function CarrosselHero() {
@@ -35,7 +35,7 @@ function CarrosselHero() {
             drag='x'
             dragConstraints={{ right: 0, left: -sizeWindow }}
             initial={{ x: 100 }}
-            animate={{ x: -index * 400 }} // assuming each image is 400px wide
+            animate={{ x: -index * 400 }} 
             transition={{ duration: 0.6 }}
           >
             {myImages.map((img, index) => (

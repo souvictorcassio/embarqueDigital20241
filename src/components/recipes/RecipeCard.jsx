@@ -19,7 +19,7 @@ const RecipeCard = ({ recipe }) => {
     }
   };
 
-  const defaultImage = '/images/default_image.jpg'; // Imagem padrão
+  const defaultImage = '/images/default_image.jpg';
 
   return (
     <>

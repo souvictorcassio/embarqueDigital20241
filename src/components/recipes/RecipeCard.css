@@ -10,9 +10,9 @@
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   background-color: #fff;
   position: relative;
-  font-size: 16px; /* Padrão de tamanho de fonte */
-  height: 100%; /* Para garantir que os cards tenham a mesma altura */
-  min-height: 400px; /* Define uma altura mínima para os cards */
+  font-size: 16px; 
+  height: 100%; 
+  min-height: 400px;
 }
 
 .recipe-card.expanded {
@@ -46,7 +46,7 @@
 .recipe-details {
   text-align: left;
   margin-top: 15px;
-  flex-grow: 1; /* Para ocupar o espaço disponível */
+  flex-grow: 1;
 }
 
 .recipe-details h4 {
@@ -79,7 +79,7 @@
   border-radius: 5px;
   cursor: pointer;
   transition: background-color 0.3s;
-  font-size: 1em; /* Padrão de tamanho de fonte */
+  font-size: 1em;
 }
 
 .recipe-card button:hover {

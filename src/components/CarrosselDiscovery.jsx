@@ -35,7 +35,7 @@ function CarrosselDiscovery() {
             drag='x'
             dragConstraints={{ right: 0, left: -sizeWindow }}
             initial={{ x: 100 }}
-            animate={{ x: -index * 400 }} // assuming each image is 400px wide
+            animate={{ x: -index * 400 }}
             transition={{ duration: 0.6 }}
           >
             {myImages.map((img, index) => (
