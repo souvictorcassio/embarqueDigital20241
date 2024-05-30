@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { useFavorites } from './FavoritesContext';
-import './RecipeCard.css';
+import './styles/RecipeCard.css';
 
 const RecipeCard = ({ recipe }) => {
   const [showRecipe, setShowRecipe] = useState(false);

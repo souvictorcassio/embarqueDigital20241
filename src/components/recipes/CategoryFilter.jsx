@@ -1,6 +1,6 @@
 
 import React from 'react';
-import './CategoryFilter.css';
+import './styles/CategoryFilter.css';
 
 const CategoryFilter = ({ selectedCategory, onSelectCategory }) => {
   const categories = ['Todas', 'Sobremesa', 'Lanche', 'Prato Principal'];

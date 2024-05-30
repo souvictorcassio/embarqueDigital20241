@@ -2,48 +2,20 @@
 import React from 'react';
 import Carrosel from '../components/Indications/Carrosel.jsx';
 
-
 const Indications = () => {
     const foodImages = [
-        'img/Indications/DSC_1071.jpg',
-        'img/Indications/DSC_1072.jpg',
-        'img/Indications/DSC_1073.jpg',
-        'img/Indications/DSC_1074.jpg',
-        'img/Indications/DSC_1075.jpg',
-
-        
+        { src: 'img/Indications/paraxaxa.jpg', link: 'https://www.parraxaxa.com.br', title: 'Paraxaxá' },
+        { src: 'img/Indications/bodedono.jpg', link: 'https://bodedono.com.br', title: 'Bode do Nô' },
+        { src: 'img/Indications/mocoto.jpg', link: 'https://mocoto.com.br', title: 'Mocotó' },
+        { src: 'img/Indications/yemanja.jpg', link: 'https://www.instagram.com/restauranteyemanja/', title: 'Yemanjá' },
+        { src: 'img/Indications/donafuo.jpg', link: 'https://donafulo.com.br', title: 'Dona Fulô' },
     ];
 
-    const dessertImages = [
-        'path_to_image1.jpg',
-        'path_to_image2.jpg',
-        'path_to_image3.jpg',
-        'path_to_image4.jpg',
-        'path_to_image5.jpg'
-    ];
-
-    const rodizioImages = [
-        'path_to_image1.jpg',
-        'path_to_image2.jpg',
-        'path_to_image3.jpg',
-        'path_to_image4.jpg',
-        'path_to_image5.jpg'
-    ];
-
-    const deliveryImages = [
-        'path_to_image1.jpg',
-        'path_to_image2.jpg',
-        'path_to_image3.jpg',
-        'path_to_image4.jpg',
-        'path_to_image5.jpg'
-    ];
 
     return (
         <div className="App">
-            <Carrosel title="Comidas Típicas" images={foodImages} />
-            <Carrosel title="Sobremesas" images={dessertImages} />
-            <Carrosel title="Rodízios" images={rodizioImages} />
-            <Carrosel title="Delivery" images={deliveryImages} />
+            <Carrosel title="Indicamos para você" images={foodImages} />
+            
         </div>
     );
 };

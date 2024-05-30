@@ -1,6 +1,6 @@
 // SearchBar.jsx
 import React from 'react';
-import './SearchBar.css';
+import './styles/SearchBar.css';
 
 const SearchBar = ({ searchTerm, onSearch }) => {
   return (

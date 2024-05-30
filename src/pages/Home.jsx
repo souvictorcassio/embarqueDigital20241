@@ -1,8 +1,8 @@
 // Home.jsx
 
-import HeroSection from "../components/HeroSection";
-import DiscoveryPlaces from "../components/DiscoveryPlaces";
-import CarrosselHero from "../components/CarrosselHero";
+import HeroSection from "../components/home/HeroSection";
+import DiscoveryPlaces from "../components/home/DiscoveryPlaces";
+import CarrosselHero from "../components/home/CarrosselHero";
 
 export default function Home() {
   return (
