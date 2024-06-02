@@ -1,10 +1,11 @@
 import React, { useState, useEffect, useRef } from 'react';
 import { motion } from 'framer-motion';
+import './Carrossel.css';
 
 const myImages = [
-  'img/Carrossel/acaraje_.jpg',
-  'img/Carrossel/bolo_de_rolo_.jpeg',
-  'img/Carrossel/canjica_.png'
+  { src: 'img/Carrossel/acaraje_.jpg', link: '/recipes', title: 'Acarajé' },
+  { src: 'img/Carrossel/bolo_de_rolo_.jpg', link: '/recipes', title: 'Bolo de Rolo' },
+  { src: 'img/Carrossel/canjica_.png', link: '/recipes', title: 'Canjica' }
 ];
 
 function CarrosselHero() {
@@ -26,26 +27,37 @@ function CarrosselHero() {
   };
 
   return (
-    <div className="carrossel-wrapper">
-      <div className="batata">
-        <button onClick={prevSlide} className="carousel-button">←</button>
-        <motion.div className='carrosselContainer' ref={carrossel} whileTap={{ cursor: 'grabbing' }}>
+    <div className="carousel-section">
+      <div className="carousel-container">
+        <button onClick={prevSlide} className="arrow arrow-prev">&#10094;</button>
+        <motion.div className='carousel' ref={carrossel} whileTap={{ cursor: 'grabbing' }}>
           <motion.div
-            className='carrossel'
+            className='carousel-track'
             drag='x'
             dragConstraints={{ right: 0, left: -sizeWindow }}
-            initial={{ x: 100 }}
-            animate={{ x: -index * 400 }} 
-            transition={{ duration: 0.6 }}
+            initial={{ x: 0 }}
+            animate={{ x: -index * 100 + '%' }}
+            transition={{ duration: 0.5 }}
           >
-            {myImages.map((img, index) => (
-              <motion.div key={index} className='image'>
-                <img src={img} alt='Nome Imagem' />
+            {myImages.map((image, idx) => (
+              <motion.div key={idx} className='carousel-image-container'>
+                <a href={image.link} target="_blank" rel="noopener noreferrer">
+                  <img src={image.src} alt={image.title} />
+                </a>
+                <div className="carousel-content">
+                  <p>{image.title}</p>
+                  <a href={image.link} target="_blank" rel="noopener noreferrer" className="btn">Ver mais</a>
+                </div>
               </motion.div>
             ))}
           </motion.div>
         </motion.div>
-        <button onClick={nextSlide} className="carousel-button">→</button>
+        <button onClick={nextSlide} className="arrow arrow-next">&#10095;</button>
+      </div>
+      <div className="dots">
+        {myImages.map((_, idx) => (
+          <span key={idx} className={`dot ${index === idx ? 'active' : ''}`} onClick={() => setIndex(idx)}></span>
+        ))}
       </div>
     </div>
   );

@@ -4,10 +4,10 @@ import CarrosselDiscovery from "./CarrosselDiscovery";
 export default function DiscoveryPlaces() {
   const list = [
     "Encontre um novo sabor",
-    "Regional da terra",
-    "Cheiro de casa",
-    "Danado de bom",
+    "Restaurante da terra",
     "Comida de mãe",
+    "Danado de bom",
+    "Bares autênticos",
     "Água na boca"
   ];
 

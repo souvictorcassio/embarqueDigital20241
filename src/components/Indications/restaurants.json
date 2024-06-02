@@ -1,0 +1,64 @@
+{
+  "restaurants": [
+    {
+      "id": 1,
+      "title": "Parraxaxá",
+      "summary": "O Parraxaxá é um restaurante localizado em Recife, Pernambuco, especializado na culinária nordestina. Destacando-se pela diversidade e qualidade dos seus pratos típicos, o Parraxaxá oferece uma experiência gastronômica autêntica, combinando sabores tradicionais com um ambiente temático acolhedor. O restaurante é um ponto de encontro popular tanto para locais quanto para turistas, sendo reconhecido por seu serviço atencioso e pela atmosfera que celebra a cultura nordestina.",
+      "history of": [
+        "O Parraxaxá foi inaugurado em Recife com o objetivo de celebrar e divulgar a rica culinária nordestina. Desde a sua abertura, o restaurante tem se comprometido em oferecer uma autêntica experiência gastronômica, valorizando ingredientes locais e receitas tradicionais.",
+        "Inspirado nas raízes culturais do Nordeste, o Parraxaxá adotou uma decoração que remete aos elementos típicos da região, criando um ambiente rústico e acolhedor. A ambientação inclui detalhes como objetos artesanais, móveis de madeira e elementos que lembram a vida no sertão, proporcionando uma imersão completa na cultura nordestina.",
+        "O cardápio do Parraxaxá é um verdadeiro convite a uma viagem pelos sabores do Nordeste. Entre os pratos mais populares estão a carne de sol, a macaxeira, o feijão verde, o arroz de leite, a galinha à cabidela, e uma variedade de cuscuzes e farofas. Além dos pratos principais, o restaurante também oferece uma seleção de sobremesas típicas, como a cartola, o bolo de rolo e o pudim de tapioca.",
+        "Ao longo dos anos, o Parraxaxá conquistou uma clientela fiel e se tornou um ponto de referência em Recife. O restaurante não só atrai pessoas interessadas em saborear a culinária nordestina, mas também aqueles que buscam conhecer mais sobre a cultura e as tradições da região.",
+        "O compromisso com a qualidade e a autenticidade fez do Parraxaxá um destino gastronômico renomado, onde cada visita é uma celebração dos sabores e da cultura nordestina."
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Bode do Nô",
+      "summary": "O Bode do Nô é um renomado restaurante localizado em Recife, famoso por sua especialidade em carne de bode. Com um ambiente rústico e acolhedor, o restaurante oferece uma verdadeira experiência da culinária sertaneja, destacando-se pela qualidade dos seus pratos e pelo atendimento caloroso.",
+      "history of": [
+        "O Bode do Nô foi fundado com o intuito de trazer ao público a autêntica culinária sertaneja, com foco especial na carne de bode. Desde a sua inauguração, o restaurante tem se destacado pela qualidade dos seus pratos e pelo ambiente que remete ao sertão nordestino.",
+        "A decoração do Bode do Nô é simples e rústica, com elementos que evocam a vida no sertão, criando uma atmosfera autêntica e aconchegante. O ambiente é complementado por detalhes como utensílios de cozinha tradicionais e móveis de madeira.",
+        "O cardápio do Bode do Nô é uma celebração dos sabores sertanejos, com destaque para a carne de bode preparada de diversas maneiras, como assada, cozida e grelhada. Além disso, o restaurante oferece pratos típicos como a galinha à cabidela, o feijão verde e a farofa de cuscuz.",
+        "Ao longo dos anos, o Bode do Nô conquistou uma base de clientes fiéis, tornando-se um ponto de referência para os amantes da culinária nordestina em Recife. O restaurante é conhecido não apenas pelos seus pratos deliciosos, mas também pelo atendimento caloroso e acolhedor.",
+        "O Bode do Nô continua a ser um destino popular tanto para locais quanto para turistas, oferecendo uma experiência autêntica da culinária sertaneja e uma celebração das tradições nordestinas."
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Bar do Cuscuz (Recife)",
+      "summary": "O Bar do Cuscuz em Recife é um estabelecimento popular que combina a tradição da culinária nordestina com um ambiente moderno e descontraído. Conhecido por seus pratos saborosos e sua ampla seleção de bebidas, o bar é um ponto de encontro animado para amigos e familiares.",
+      "history of": [
+        "O Bar do Cuscuz foi fundado com a missão de oferecer aos clientes uma experiência gastronômica autêntica, focada na culinária nordestina, em um ambiente moderno e convidativo. Desde a sua abertura, o bar se tornou um ponto de encontro popular em Recife.",
+        "A decoração do Bar do Cuscuz mistura elementos tradicionais e modernos, criando um ambiente único e acolhedor. O espaço é decorado com artesanatos locais e mobília contemporânea, refletindo a combinação de tradição e modernidade.",
+        "O cardápio do Bar do Cuscuz destaca-se pela variedade e qualidade dos pratos oferecidos, com ênfase no cuscuz preparado de diversas formas. Entre as opções mais populares estão o cuscuz com carne de sol, cuscuz com charque e cuscuz com queijo coalho. O bar também oferece uma seleção de petiscos, pratos principais e sobremesas típicas.",
+        "Além da comida deliciosa, o Bar do Cuscuz é conhecido por sua ampla seleção de bebidas, incluindo cervejas artesanais, coquetéis e cachaças locais. O ambiente animado e a música ao vivo tornam o bar um lugar perfeito para socializar e desfrutar de uma noite agradável.",
+        "O Bar do Cuscuz continua a atrair uma clientela diversificada, consolidando-se como um dos destinos gastronômicos mais populares de Recife. O compromisso com a qualidade e a autenticidade dos pratos, aliado ao ambiente acolhedor, faz do bar um lugar especial para celebrar a culinária e a cultura nordestina."
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Seu Luna",
+      "summary": "O Seu Luna é um restaurante em Recife que se destaca pela sua culinária nordestina autêntica e pelo ambiente acolhedor e familiar. Com pratos saborosos e um serviço atencioso, o Seu Luna oferece uma verdadeira imersão nos sabores do Nordeste.",
+      "history of": [
+        "O Seu Luna foi criado com o objetivo de oferecer uma experiência gastronômica autêntica, celebrando a culinária nordestina e suas tradições. Desde a sua inauguração, o restaurante tem sido um ponto de encontro para os apreciadores da boa comida nordestina.",
+        "A decoração do Seu Luna é inspirada nos elementos típicos do Nordeste, com uma atmosfera rústica e acolhedora. O ambiente inclui detalhes como objetos artesanais, móveis de madeira e elementos que remetem à vida no sertão.",
+        "O cardápio do Seu Luna é uma verdadeira viagem pelos sabores do Nordeste, com pratos como carne de sol, feijão verde, arroz de leite, galinha à cabidela e uma variedade de cuscuzes e farofas. O restaurante também oferece sobremesas tradicionais como a cartola e o bolo de rolo.",
+        "O Seu Luna é conhecido pelo seu atendimento caloroso e atencioso, criando um ambiente familiar e acolhedor. O compromisso com a qualidade dos ingredientes e a autenticidade dos pratos fez do restaurante um destino popular tanto para locais quanto para turistas.",
+        "O Seu Luna continua a ser um lugar especial para aqueles que desejam experimentar a verdadeira culinária nordestina, celebrando os sabores e as tradições da região em cada refeição."
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Dona Fulô",
+      "summary": "Dona Fulô é um charmoso restaurante, conhecido por sua culinária nordestina autêntica e pelo ambiente acolhedor. Com pratos tradicionais e uma decoração que remete às raízes culturais do Nordeste, Dona Fulô oferece uma experiência gastronômica única.",
+      "history of": [
+        "Dona Fulô foi fundado com a missão de celebrar a rica cultura e culinária nordestina. Desde sua inauguração, o restaurante tem sido um ponto de encontro para os amantes da gastronomia regional.",
+        "A decoração de Dona Fulô é um tributo às tradições do Nordeste, com elementos artesanais, móveis de madeira e uma atmosfera que remete à vida no sertão. Cada detalhe é pensado para proporcionar uma experiência autêntica e acolhedora.",
+        "O cardápio de Dona Fulô é uma verdadeira celebração dos sabores nordestinos, com pratos como carne de sol, galinha à cabidela, feijão verde, arroz de leite, e uma variedade de cuscuzes e farofas. As sobremesas típicas, como o bolo de rolo e a cartola, também são destaque.",
+        "O restaurante é conhecido pelo atendimento caloroso e pela qualidade dos seus pratos, que são preparados com ingredientes frescos e locais. Dona Fulô se tornou um destino popular tanto para locais quanto para turistas que desejam experimentar a culinária nordestina em um ambiente autêntico.",
+        "Dona Fulô continua a atrair uma clientela fiel, oferecendo uma experiência gastronômica que celebra os sabores e a cultura do Nordeste. O compromisso com a autenticidade e a qualidade faz do restaurante um lugar especial para se apreciar a culinária regional."
+      ]
+    }
+  ]
+}

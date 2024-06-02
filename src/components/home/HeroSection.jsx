@@ -16,7 +16,7 @@ export default function HeroSection() {
   return (
     <div className="section hero">
       <div className="col typography">
-        <h1 className="tittle">Receitas arretadas</h1>
+        <h1 className="tittle">Receitas arretadas e mais!</h1>
         <p className="info">Somos um portal para um mundo de sabores, aromas e experiências culinárias inesquecíveis. Aqui, você encontrará uma seleção exclusiva de receitas do Nordeste brasileiro, uma região rica em tradições gastronômicas que encantam o paladar. Explore pratos icônicos, desde o acarajé da Bahia até o baião de dois do Ceará, e deixe-se envolver pelas histórias e culturas que fazem dessas receitas algo tão especial. Além disso, oferecemos um catálogo selecionado de bares e restaurantes, cuidadosamente escolhidos para proporcionar a você o melhor da culinária nordestina. Venha descobrir e saborear a autêntica cozinha do Nordeste através do nosso portal, uma verdadeira viagem culinária que você não vai querer perder.</p>
         <Link to="/recipes" className="btn">Confira aqui</Link>
       </div>
