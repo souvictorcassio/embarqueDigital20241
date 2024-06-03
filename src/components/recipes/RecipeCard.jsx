@@ -29,6 +29,9 @@ const RecipeCard = ({ recipe }) => {
         <img src={recipe.image || defaultImage} alt={recipe.title} className="recipe-image" />
         <div className="recipe-details">
           <div className="recipe-summary">{recipe.summary}</div>
+          <div className="recipe-prep-time">
+            <strong>Tempo de preparo:</strong> {recipe.prepTime}
+          </div>
           {showRecipe && (
             <div className="recipe-info">
               <h4>Ingredientes:</h4>
