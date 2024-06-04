@@ -8,7 +8,7 @@ export default function Navbar(){
     const links = [
         {
             name: "Início",
-            path: "/"
+            path: "/embarqueDigital20241"
         },
         {
             name: "Receitas",
