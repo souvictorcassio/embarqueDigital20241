@@ -95,3 +95,9 @@
   background: rgba(0, 0, 0, 0.5);
   z-index: 999;
 }
+
+.recipe-prep-time {
+  margin-top: 10px;
+  font-size: 1em;
+  color: #000;
+}
