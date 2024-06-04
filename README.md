@@ -21,7 +21,7 @@ Esta é uma aplicação web de receitas que utiliza React.js e JSON. Foi desenvo
 
 ## Contexto
 
-O nosso desafio neste aplicativo foi desenvolver a interface em React.js de um sistema que permite visualizar, buscar, filtrar, favoritar e acompanhar o processo de preparação de receitas regionais do nordeste brasileiro. A base de dados vem de um arquivo JSON.
+O nosso desafio neste aplicativo foi desenvolver uma interface em React.js de um sistema que permite visualizar, buscar, filtrar, favoritar e acompanhar o processo de preparação de receitas regionais do nordeste brasileiro. A base de dados vem de um arquivo JSON.
 
 ## Período de realização
 
