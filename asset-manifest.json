@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/embarqueDigital20241/static/css/main.21ac7130.css",
+    "main.js": "/embarqueDigital20241/static/js/main.7d0ee741.js",
+    "index.html": "/embarqueDigital20241/index.html",
+    "main.21ac7130.css.map": "/embarqueDigital20241/static/css/main.21ac7130.css.map",
+    "main.7d0ee741.js.map": "/embarqueDigital20241/static/js/main.7d0ee741.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.21ac7130.css",
+    "static/js/main.7d0ee741.js"
+  ]
+}
