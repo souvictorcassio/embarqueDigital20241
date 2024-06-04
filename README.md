@@ -38,7 +38,7 @@ Todo envolvimento no projeto desde a entrega parcial até a entrega final ocorre
 
 ## Demo
 
-Deploy: (link a ser adicionado futuramente)
+Deploy: [(Sabor da Gente)](https://souvictorcassio.github.io/embarqueDigital20241)
 
 ## Tecnologias utilizadas
 
