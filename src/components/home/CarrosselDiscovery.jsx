@@ -3,9 +3,9 @@ import { motion } from 'framer-motion';
 import './Carrossel.css';
 
 const myImages = [
-  { src: 'img/Carrossel/parraxaxa.png', link: '/indications', title: 'Parraxaxá' },
-  { src: 'img/Carrossel/bar_do_cuscuz.png', link: '/indications', title: 'Bar do Cuscuz' },
-  { src: 'img/Carrossel/bode_do_no.jpg', link: '/indications', title: 'Bode do Nô' }
+  { src: './embarqueDigital20241/img/Carrossel/parraxaxa.png', link: '/indications', title: 'Parraxaxá' },
+  { src: './embarqueDigital20241/img/Carrossel/bar_do_cuscuz.png', link: '/indications', title: 'Bar do Cuscuz' },
+  { src: './embarqueDigital20241/img/Carrossel/bode_do_no.jpg', link: '/indications', title: 'Bode do Nô' }
 ];
 
 function CarrosselDiscovery() {
@@ -46,7 +46,6 @@ function CarrosselDiscovery() {
                 </a>
                 <div className="carousel-content">
                   <p>{image.title}</p>
-                  <a href={image.link} target="_blank" rel="noopener noreferrer" className="btn">Ver mais</a>
                 </div>
               </motion.div>
             ))}

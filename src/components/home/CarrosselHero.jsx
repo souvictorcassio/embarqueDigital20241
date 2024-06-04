@@ -3,9 +3,9 @@ import { motion } from 'framer-motion';
 import './Carrossel.css';
 
 const myImages = [
-  { src: 'img/Carrossel/acaraje_.jpg', link: '/recipes', title: 'Acarajé' },
-  { src: 'img/Carrossel/bolo_de_rolo_.jpg', link: '/recipes', title: 'Bolo de Rolo' },
-  { src: 'img/Carrossel/canjica_.png', link: '/recipes', title: 'Canjica' }
+  { src: './embarqueDigital20241/img/Carrossel/acaraje_.jpg', link: '/recipes', title: 'Acarajé' },
+  { src: './embarqueDigital20241/img/Carrossel/bolo_de_rolo_.jpg', link: '/recipes', title: 'Bolo de Rolo' },
+  { src: './embarqueDigital20241/img/Carrossel/canjica_.png', link: '/recipes', title: 'Canjica' }
 ];
 
 function CarrosselHero() {
@@ -46,7 +46,6 @@ function CarrosselHero() {
                 </a>
                 <div className="carousel-content">
                   <p>{image.title}</p>
-                  <a href={image.link} target="_blank" rel="noopener noreferrer" className="btn">Ver mais</a>
                 </div>
               </motion.div>
             ))}

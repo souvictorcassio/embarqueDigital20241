@@ -4,7 +4,7 @@
       "id": 1,
       "title": "Cocada Nordestina",
       "summary": "Um doce típico brasileiro feito com leite condensado, chocolate em pó e granulado.",
-      "image": "/img/recipes/cocada_nordestina.jpg",
+      "image": "./embarqueDigital20241/img/recipes/cocada_nordestina.jpg",
       "preparation_method": [
         "Em uma panela, misture o leite condensado, o chocolate em pó e a manteiga.",
         "Leve ao fogo médio, mexendo sempre até desgrudar do fundo da panela.",
@@ -24,7 +24,7 @@
       "id": 2,
       "title": "Bobó de Cogumelos",
       "summary": "O Bobó de Cogumelos é uma versão vegetariana do prato tradicional nordestino, feito com cogumelos, mandioca, leite de coco e temperos.",
-      "image": "/img/recipes/bobo_de_cogumelo.jpg",
+      "image": "./embarqueDigital20241/img/recipes/bobo_de_cogumelo.jpg",
       "preparation_method": [
         "Descasque e corte a mandioca em pedaços pequenos.",
         "Cozinhe a mandioca em água fervente até que fique macia. Escorra e reserve.",
@@ -53,7 +53,7 @@
       "id": 29,
       "title": "Torta de Banana da Terra",
       "summary": "A Torta de Banana da Terra é uma sobremesa deliciosa e tradicional do Nordeste brasileiro, feita com bananas maduras e uma massa macia e aromática.",
-      "image": "/img/recipes/torta_de_banana_da_terra.jpg",
+      "image": "./embarqueDigital20241/img/recipes/torta_de_banana_da_terra.jpg",
       "preparation_method": [
         "Em uma tigela, misture a farinha de trigo, o açúcar, o fermento, o sal e a canela em pó.",
         "Adicione os ovos ligeiramente batidos e a manteiga derretida, misturando até formar uma massa homogênea.",
@@ -79,7 +79,7 @@
       "id": 4,
       "title": "Acarajé",
       "summary": "Bolinho de feijão-fradinho frito no azeite de dendê, típico da Bahia.",
-      "image": "/img/recipes/acaraje.jpg",
+      "image": "./embarqueDigital20241/img/recipes/acaraje.jpg",
       "preparation_method": [
         "Deixe o feijão-fradinho de molho por 12 horas.",
         "Triture o feijão com a cebola e o alho até formar uma massa.",
@@ -98,7 +98,7 @@
       "id": 5,
       "title": "Moqueca Baiana",
       "summary": "Peixe cozido com leite de coco, azeite de dendê, pimentões e outros temperos.",
-      "image": "/img/recipes/moqueca_baiana.jpg",
+      "image": "./embarqueDigital20241/img/recipes/moqueca_baiana.jpg",
       "preparation_method": [
         "Tempere o peixe com sal, pimenta e limão.",
         "Em uma panela, aqueça o azeite de dendê e refogue a cebola, o alho e os pimentões.",
@@ -122,7 +122,7 @@
       "id": 6,
       "title": "Carne de Sol com Nata",
       "summary": "Carne de sol servida com molho de nata e acompanhamentos.",
-      "image": "/img/recipes/carne_de_sol_com_nata.jpg",
+      "image": "./embarqueDigital20241/img/recipes/carne_de_sol_com_nata.jpg",
       "preparation_method": [
         "Deixe a carne de sol de molho por 24 horas, trocando a água várias vezes.",
         "Cozinhe a carne até ficar macia e desfie.",
@@ -142,7 +142,7 @@
       "id": 7,
       "title": "Baião de Dois",
       "summary": "Prato típico nordestino feito com arroz, feijão, carne seca e queijo coalho.",
-      "image": "/img/recipes/baiao_de_dois.jpg",
+      "image": "./embarqueDigital20241/img/recipes/baiao_de_dois.jpg",
       "preparation_method": [
         "Cozinhe o feijão até ficar macio.",
         "Em outra panela, refogue a cebola e o alho no óleo.",
@@ -166,7 +166,7 @@
       "id": 8,
       "title": "Cuscuz Nordestino",
       "summary": "Prato típico feito com farinha de milho e acompanhado de diversos ingredientes.",
-      "image": "/img/recipes/cuscuz.jpg",
+      "image": "./embarqueDigital20241/img/recipes/cuscuz.jpg",
       "preparation_method": [
         "Hidrate a farinha de milho com água e sal.",
         "Cozinhe em cuscuzeira até ficar firme.",
@@ -185,7 +185,7 @@
       "id": 9,
       "title": "Bolo de Rolo",
       "summary": "Tradicional bolo pernambucano feito com finas camadas de massa e goiabada.",
-      "image": "/img/recipes/bolo_de_rolo.jpg",
+      "image": "./embarqueDigital20241/img/recipes/bolo_de_rolo.jpg",
       "preparation_method": [
         "Prepare uma massa fina com farinha, açúcar, ovos e manteiga.",
         "Asse finas camadas de massa e enrole com goiabada derretida entre as camadas."
@@ -204,7 +204,7 @@
       "id": 10,
       "title": "Tapioca",
       "summary": "Goma de tapioca hidratada e recheada com diversos ingredientes.",
-      "image": "/img/recipes/tapioca.jpg",
+      "image": "./embarqueDigital20241/img/recipes/tapioca.jpg",
       "preparation_method": [
         "Peneire a goma de tapioca hidratada.",
         "Aqueça uma frigideira e espalhe a goma, formando um disco.",
@@ -221,7 +221,7 @@
       "id": 11,
       "title": "Arroz de Hauçá",
       "summary": "Prato baiano de arroz cozido com leite de coco e carne-seca desfiada.",
-      "image": "/img/recipes/arroz_de_hauca.jpg",
+      "image": "./embarqueDigital20241/img/recipes/arroz_de_hauca.jpg",
       "preparation_method": [
         "Cozinhe o arroz com leite de coco.",
         "Desfie a carne-seca e refogue com cebola e alho.",
@@ -242,7 +242,7 @@
       "id": 12,
       "title": "Vatapá",
       "summary": "Prato baiano feito com pão, leite de coco, camarão, amendoim e azeite de dendê.",
-      "image": "/img/recipes/vatapa.jpg",
+      "image": "./embarqueDigital20241/img/recipes/vatapa.jpg",
       "preparation_method": [
         "Umedeça o pão com leite de coco.",
         "Bata no liquidificador com camarão, amendoim e azeite de dendê.",
@@ -263,7 +263,7 @@
       "id": 13,
       "title": "Caldinho de Sururu",
       "summary": "Caldo típico feito com marisco sururu, leite de coco e temperos.",
-      "image": "/img/recipes/caldinho_de_sururu.jpg",
+      "image": "./embarqueDigital20241/img/recipes/caldinho_de_sururu.jpg",
       "preparation_method": [
         "Refogue cebola, alho e tomate no azeite.",
         "Adicione o sururu e cozinhe com leite de coco.",
@@ -285,7 +285,7 @@
       "id": 14,
       "title": "Sarapatel",
       "summary": "Prato feito com miúdos de porco ou carneiro, cozidos com temperos.",
-      "image": "/img/recipes/sarapatel.jpg",
+      "image": "./embarqueDigital20241/img/recipes/sarapatel.jpg",
       "preparation_method": [
         "Lave os miúdos e corte em pedaços pequenos.",
         "Refogue cebola, alho e pimentão no azeite.",
@@ -307,7 +307,7 @@
       "id": 15,
       "title": "Peixe à Delícia",
       "summary": "Peixe frito coberto com molho de banana, queijo e creme de leite.",
-      "image": "/img/recipes/peixe_a_delicia.jpg",
+      "image": "./embarqueDigital20241/img/recipes/peixe_a_delicia.jpg",
       "preparation_method": [
         "Tempere o peixe e frite.",
         "Cubra com rodelas de banana, queijo e creme de leite.",
@@ -328,7 +328,7 @@
       "id": 16,
       "title": "Bobó de Camarão",
       "summary": "O bobó de camarão é um prato típico da culinária baiana e popular em diversos estados brasileiros.",
-      "image": "/img/recipes/bobo_de_camarao.jpg",
+      "image": "./embarqueDigital20241/img/recipes/bobo_de_camarao.jpg",
       "preparation_method": [
         "Lave os camarões e tempere com sal, alho, pimenta e limão, deixe marinar.",
         "Pegue uma panela com água e cozinhe a mandioca em pedacinhos, com louro e a cebola em rodelas.",
@@ -360,7 +360,7 @@
       "id": 17,
       "title": "Panelada Piauiense",
       "summary": "Um dos pratos de destaque no Piauí é a panelada, uma receita que apresenta um sabor bastante característico e saboroso. A receita, tipicamente, leva ingredientes como bucho, tripas, mocotó e nervo de boi e temperos à gosto.",
-      "image": "/img/recipes/panelada_piauiense.jpg",
+      "image": "./embarqueDigital20241/img/recipes/panelada_piauiense.jpg",
       "preparation_method": [
         "Misture as tripas, o bucho e os pés de boi e ferva por 15 minutos com suco de 2 limões.",
         "Junte os temperos e misture com as tripas, o bucho e os pés.",
@@ -388,7 +388,7 @@
       "id": 18,
       "title": "Arroz de Cuxá",
       "summary": "O arroz de cuxá é uma receita que se utiliza de arroz branco cozido em água e sal acompanhado de um molho conhecido como cuxá na culinária maranhense.",
-      "image": "/img/recipes/arroz_de_cuxa.jpg",
+      "image": "./embarqueDigital20241/img/recipes/arroz_de_cuxa.jpg",
       "preparation_method": [
         "Coloque a vinagreiar pra cozinhar até murchar, retire do fogo escorra, e de umas batidas nela com a outra face da faca.",
         "Refogue todos os temperos em azeite, coloque o camarçao seco, um pouco do gergelim e a vinagreira, mexendo sempre para incoorporar ao refogado.",
@@ -416,7 +416,7 @@
       "id": 19,
       "title": "Bolo Souza leão",
       "summary": "O bolo souza leão é um doce brasileiro típico de Pernambuco, por isso traz consigo a cara da festa junina. Essa sobremesa nos remete à músicas de são joão, noites frias e bebidas quentes, com muita alegria, bandeirinhas e fogueiras.",
-      "image": "/img/recipes/bolo_souza_leao.jpg",
+      "image": "./embarqueDigital20241/img/recipes/bolo_souza_leao.jpg",
       "preparation_method": [
         "Junte a massa de mandioca com o leite de coco e o sal.",
         "A parte, faça o mel com o açúcar com os três copos de água.",
@@ -449,7 +449,7 @@
       "id": 20,
       "title": "Pé-de-Moleque",
       "summary": "O pé de moleque é um doce típico da culinária brasileira, feito a partir da mistura de amendoim torrado com rapadura.",
-      "image": "/img/recipes/pe_de_moleque.jpg",
+      "image": "./embarqueDigital20241/img/recipes/pe_de_moleque.jpg",
       "preparation_method": [
         "Colocar na panela o amendoim, o açúcar e a margarina.",
         "Levar ao fogo, mexendo sempre.",
@@ -474,7 +474,7 @@
       "id": 21,
       "title": "Canjica",
       "summary": "A receita de canjica é um clássico das festas juninas de nosso país. ",
-      "image": "/img/recipes/canjica.jpg",
+      "image": "./embarqueDigital20241/img/recipes/canjica.jpg",
       "preparation_method": [
         "Lavar a canjica em água corrente.",
         "Deixar de molho por aproximadamente 4 horas com o açúcar.",
@@ -504,7 +504,7 @@
       "id": 22,
       "title": "Bolinho de Mandioca",
       "summary": "Que tal uma receita de bolinho de mandioca recheado com queijo para se deliciar no lanche da tarde ou final do dia?",
-      "image": "/img/recipes/bolinho_de_mandioca.jpg",
+      "image": "./embarqueDigital20241/img/recipes/bolinho_de_mandioca.jpg",
       "preparation_method": [
         "Coloque a mandioca em um recipiente e adicione o sal, a pimenta, a farinha e o ovo.",
         "Misture uniformemente até firmar bem e acrescente a cebolinha.",
@@ -530,7 +530,7 @@
       "id": 23,
       "title": "Camarão na Moranga",
       "summary": " Esta receita une a textura única dos camarões com a imponência e o sabor característico da moranga, resultando em um prato que não apenas encanta os olhos, mas também faz a festa no paladar",
-      "image": "/img/recipes/camarao_na_moranga.jpg",
+      "image": "./embarqueDigital20241/img/recipes/camarao_na_moranga.jpg",
       "preparation_method": [
         "Retire a tampa e as sementes da moranga.",
         "Lave e enrole-a em papel alumínio e leve ao forno médio (180° C) por 45 minutos.",
@@ -563,7 +563,7 @@
       "id": 24,
       "title": "Bacalhoada",
       "summary": "creme de bacalhau com cebolo e batata.",
-      "image": "/img/recipes/bacalhoada.jpg",
+      "image": "./embarqueDigital20241/img/recipes/bacalhoada.jpg",
       "preparation_method": [
         "dorar o bacalhau com azeite",
         "adicionar a cebola e dora-la",
@@ -592,7 +592,7 @@
       "id": 25,
       "title": "Maria Isabel",
       "summary": " uma comida típica do Piauí, que consiste num misturado de arroz com carne-de-sol.",
-      "image": "/img/recipes/maria_isabel.jpg",
+      "image": "./embarqueDigital20241/img/recipes/maria_isabel.jpg",
       "preparation_method": [
         "Em uma panela com azeite, frite o charque.",
         "Acrescente alho, cebola, pimentão, pimenta de cheiro, pimenta dedo-de-moça e refogue bem.",
@@ -632,7 +632,7 @@
       "id": 26,
       "title": "Doce de Coco Queimado",
       "summary": "O Doce de Coco Queimado é uma sobremesa tradicional do Nordeste brasileiro, com sabor único e irresistível.",
-      "image": "/img/recipes/doce_de_coco_queimado.jpg",
+      "image": "./embarqueDigital20241/img/recipes/doce_de_coco_queimado.jpg",
       "preparation_method": [
         "Em uma panela, coloque o coco ralado, o açúcar e a água.",
         "Leve ao fogo médio, mexendo sempre, até obter um doce espesso e levemente queimado.",
@@ -650,7 +650,7 @@
       "id": 27,
       "title": "Pudim de Tapioca",
       "summary": "O Pudim de Tapioca é uma sobremesa cremosa e saborosa, muito apreciada no Nordeste brasileiro.",
-      "image": "/img/recipes/pudim_de_tapioca.jpg",
+      "image": "./embarqueDigital20241/img/recipes/pudim_de_tapioca.jpg",
       "preparation_method": [
         "Em uma tigela, misture a tapioca com o leite e deixe hidratar por 30 minutos.",
         "No liquidificador, bata os ovos, o leite condensado e o coco ralado.",
@@ -674,7 +674,7 @@
       "id": 28,
       "title": "Cuscuz de Tapioca",
       "summary": "O Cuscuz de Tapioca é uma sobremesa gelada e refrescante, perfeita para os dias quentes do Nordeste brasileiro.",
-      "image": "/img/recipes/cuscuz_de_tapioca.jpg",
+      "image": "./embarqueDigital20241/img/recipes/cuscuz_de_tapioca.jpg",
       "preparation_method": [
         "Em uma tigela, misture a tapioca com o leite de coco e o leite.",
         "Adicione o leite condensado e o coco ralado, mexendo bem.",

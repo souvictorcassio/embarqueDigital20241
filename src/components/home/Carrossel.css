@@ -61,25 +61,6 @@
   font-weight: bold;
 }
 
-.carousel-content .btn {
-  display: inline-block;
-  width: 80%;
-  margin: 10px 0;
-  padding: 10px 20px;
-  font-size: 1em;
-  color: #fff;
-  background-color: #e67e22;
-  border: none;
-  border-radius: 5px;
-  cursor: pointer;
-  transition: background-color 0.3s, transform 0.3s;
-}
-
-.carousel-content .btn:hover {
-  background-color: #f17202;
-  transform: scale(1.05);
-}
-
 .arrow {
   position: absolute;
   top: 50%;

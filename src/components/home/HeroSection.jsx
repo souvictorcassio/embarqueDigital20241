@@ -3,15 +3,15 @@ import { Link } from "react-router-dom";
 
 export default function HeroSection() {
   const images = [
-    "/img/home/image_1.jpg",
-    "/img/home/image_2.jpg",
-    "/img/home/image_3.jpg",
-    "/img/home/image_4.jpg",
-    "/img/home/image_5.jpg",
-    "/img/home/image_6.jpg",
-    "/img/home/image_7.jpg",
-    "/img/home/image_8.jpg",
-    "/img/home/image_9.jpg",
+    "./embarqueDigital20241/img/home/image_1.jpg",
+    "./embarqueDigital20241/img/home/image_2.jpg",
+    "./embarqueDigital20241/img/home/image_3.jpg",
+    "./embarqueDigital20241/img/home/image_4.jpg",
+    "./embarqueDigital20241/img/home/image_5.jpg",
+    "./embarqueDigital20241/img/home/image_6.jpg",
+    "./embarqueDigital20241/img/home/image_7.jpg",
+    "./embarqueDigital20241/img/home/image_8.jpg",
+    "./embarqueDigital20241/img/home/image_9.jpg",
   ];
   return (
     <div className="section hero">
