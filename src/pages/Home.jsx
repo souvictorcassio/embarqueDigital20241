@@ -1,5 +1,3 @@
-// Home.jsx
-
 import HeroSection from "../components/home/HeroSection";
 import DiscoveryPlaces from "../components/home/DiscoveryPlaces";
 import CarrosselHero from "../components/home/CarrosselHero";

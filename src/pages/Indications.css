@@ -1,0 +1,21 @@
+.explanation-text {
+    margin: 20px auto;
+    width: 80%;
+    text-align: center;
+    font-family: Arial, sans-serif;
+    font-size: 1.2em;
+    color: #333;
+}
+
+.explanation-text p {
+    margin: 0;
+    line-height: 1.5;
+    color: #413728;
+}
+
+@media (max-width: 768px) {
+    .explanation-text {
+        width: 90%;
+        font-size: 1em;
+    }
+}

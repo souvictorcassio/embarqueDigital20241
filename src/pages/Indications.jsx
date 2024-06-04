@@ -1,5 +1,6 @@
 import React from 'react';
 import Carrosel from '../components/Indications/Carrosel.jsx';
+import './Indications.css';
 
 const Indications = () => {
     const foodImages = [
@@ -10,10 +11,12 @@ const Indications = () => {
         { src: 'img/Indications/dona_fulo.png', link: 'https://donafulo.com.br', title: 'Dona Fulô' },
     ];
 
-
     return (
         <div className="App">
-            <Carrosel title="Indicamos para você" images={foodImages} />   
+            <div className="explanation-text">
+                <p>Explore as melhores opções de gastronomia que destacam a cultura e os sabores únicos da região nordeste.</p>
+            </div>
+            <Carrosel title="Indicamos para você" images={foodImages} />
         </div>
     );
 };
