@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/embarqueDigital20241/static/css/main.21ac7130.css",
-    "main.js": "/embarqueDigital20241/static/js/main.9215f803.js",
-    "index.html": "/embarqueDigital20241/index.html",
-    "main.21ac7130.css.map": "/embarqueDigital20241/static/css/main.21ac7130.css.map",
-    "main.9215f803.js.map": "/embarqueDigital20241/static/js/main.9215f803.js.map"
+    "main.css": "/static/css/main.21ac7130.css",
+    "main.js": "/static/js/main.9215f803.js",
+    "index.html": "/index.html",
+    "main.21ac7130.css.map": "/static/css/main.21ac7130.css.map",
+    "main.9215f803.js.map": "/static/js/main.9215f803.js.map"
   },
   "entrypoints": [
     "static/css/main.21ac7130.css",
