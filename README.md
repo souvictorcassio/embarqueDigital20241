@@ -1,72 +1,98 @@
-# Getting Started with Create React App
+# Aplicação de Receitas
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Esta é uma aplicação web de receitas que utiliza React.js e JSON. Foi desenvolvida em grupo, como avaliação para a disciplina de Atividades Práticas Interdisciplinares de Extensão II (Residência Tecnológica) do Embarque Digital.
 
-## Available Scripts
+## Sumário
 
-In the project directory, you can run:
+- [Sobre o projeto](#sobre-o-projeto)
+  - [Contexto](#contexto)
+  - [Período de realização](#período-de-realização)
+  - [Funcionalidades](#funcionalidades)
+  - [Demo](#demo)
+- [Tecnologias utilizadas](#tecnologias-utilizadas)
+  - [Front-end](#front-end)
+- [Instalação](#instalação)
+- [Status de desenvolvimento](#status-de-desenvolvimento)
+- [Desafios de desenvolvimento](#desafios-de-desenvolvimento)
+- [Desenvolvedores](#desenvolvedores)
+- [Agradecimentos](#agradecimentos)
 
-### `npm start`
+# Sobre o projeto
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Contexto
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+O nosso desafio neste aplicativo foi desenvolver a interface em React.js de um sistema que permite visualizar, buscar, filtrar, favoritar e acompanhar o processo de preparação de receitas regionais do nordeste brasileiro. A base de dados vem de um arquivo JSON.
 
-### `npm test`
+## Período de realização
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Todo envolvimento no projeto desde a entrega parcial até a entrega final ocorreu durante o período de 11/03/2023 a 05/06/2024.
 
-### `npm run build`
+## Funcionalidades
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- Listar receitas;
+- Buscar receitas por nome;
+- Explorar receitas por categoria (lanche, sobremesa e prato principal);
+- Acessar os detalhes de cada receita, com sumário, tempo de preparo, ingredientes, modo de preparo;
+- Favoritar e desfavoritar receitas;
+- Consultar bares e restaurantes regionais indicados pela plataforma;
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Demo
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Deploy: (link a ser adicionado futuramente)
 
-### `npm run eject`
+## Tecnologias utilizadas
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+### Front-end
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- HTML
+- CSS/SCSS
+- JavaScript
+- JSON
+- React
+- React Hooks
+- React Router Dom
+- React Responsive Carousel
+- Framer Motion
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## Instalação
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Para instalar o projeto localmente, siga os seguintes passos:
 
-## Learn More
+1. Clone o repositório
+   ```bash
+   git clone https://github.com/souvictorcassio/embarqueDigital20241.git
+2. Entre na pasta do projeto
+   ```bash
+   cd embarqueDigital20241
+3. Instale as dependências
+   ```bash
+   npm install
+4. Inicie o servidor local
+   ```bash
+   npm run start
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+[⬆️ Voltar ao topo](#aplicação-de-receitas)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Status de desenvolvimento
 
-### Code Splitting
+O projeto foi entregue dentro do esperado, segundo o backlog priorizado com o cliente, no entanto ainda carece de algumas melhorias na estilização e da implementação de algumas funcionalidades sugeridas pela equipe de desenvolvimento, como: sistema de login, seção para avaliações e para comentários sobre as receitas.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## Desafios de desenvolvimento
 
-### Analyzing the Bundle Size
+Ficou a cargo do grupo definir as prioridades de desenvolvimento que seriam seguidas, conforme os requisitos solicitados pelo cliente. O desenvolvimento exigiu a busca pelo conhecimento de novas tecnologias que atendessem a necessidade da aplicação, bem como a capacidade de analisar a aplicação como um todo, suas diferentes telas e componentes, e prever possíveis conflitos e/ou reaproveitamento de componentes. Enfrentamos problemas pontuais relacionados à proatividade que foram solucionados através da redistribuição de tarefas.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+## Desenvolvedores
 
-### Making a Progressive Web App
+- Roselany Nascimento
+- Samuel Silva
+- Thiago Silva
+- Valdir Souza
+- Victor Sousa
+- Victor da Hora
+- Wyllamis Paiva
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+## Agradecimentos
 
-### Advanced Configuration
+Em nome do Squad 6 (Uninassau) - Accenture, agradeço ao Porto Digital e à Prefeitura do Recife por nos proporcionar esta oportunidade de aprendizado e desenvolvimento de habilidades técnicas e de trabalho em equipe. Também agradeço aos colegas de equipe, mentora e cliente que foram peças chave para a construção e finalização do projeto.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-
-.
+[⬆️ Voltar ao topo](#aplicação-de-receitas)
