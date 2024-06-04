@@ -20,7 +20,7 @@ export default function Navbar(){
         },
         {
             
-            name: "Favoritadas",
+            name: "Favoritas",
             path: "/favorites"
         },
         {

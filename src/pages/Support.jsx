@@ -46,7 +46,7 @@ const Support = () => {
   return (
     <div className="support-page">
       <h2>Precisa de ajuda? Chama o Chef!</h2>
-      <p>Utilize esse espaço para nos ajudar a melhorar a sua experiência no site.</p>
+      <p className='paragraph'>Utilize esse espaço para nos auxiliar a melhorar a sua experiência no site.</p>
       {isSubmitted ? (
         <p className="success-message">Sua mensagem foi enviada com sucesso!</p>
       ) : (
