@@ -8,11 +8,11 @@ const FavoriteRecipes = () => {
 
   return (
     <div className="favorite-recipes-page">
-      <h1>Receitas Favoritas</h1>
+      <h1>Receitas Favoritas </h1>
       {favorites.length > 0 ? (
         <RecipeList recipes={favorites} />
       ) : (
-        <p>Nenhuma receita foi favoritada :/</p>
+        <p> Nenhuma  receita foi favoritada:/</p>
       )}
     </div>
   );
