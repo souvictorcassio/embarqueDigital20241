@@ -51,3 +51,4 @@ const Recipes = () => {
 };
 
 export default Recipes;
+// Paginação

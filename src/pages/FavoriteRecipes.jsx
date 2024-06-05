@@ -12,7 +12,7 @@ const FavoriteRecipes = () => {
       {favorites.length > 0 ? (
         <RecipeList recipes={favorites} />
       ) : (
-        <p> Nenhuma receita foi favoritada :/</p>
+        <p> Nenhuma  receita foi favoritada:/</p>
       )}
     </div>
   );
