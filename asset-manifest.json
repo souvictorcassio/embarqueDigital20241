@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/embarqueDigital20241/static/css/main.8336abaf.css",
-    "main.js": "/embarqueDigital20241/static/js/main.1c09956f.js",
+    "main.js": "/embarqueDigital20241/static/js/main.fb621479.js",
     "index.html": "/embarqueDigital20241/index.html",
     "main.8336abaf.css.map": "/embarqueDigital20241/static/css/main.8336abaf.css.map",
-    "main.1c09956f.js.map": "/embarqueDigital20241/static/js/main.1c09956f.js.map"
+    "main.fb621479.js.map": "/embarqueDigital20241/static/js/main.fb621479.js.map"
   },
   "entrypoints": [
     "static/css/main.8336abaf.css",
-    "static/js/main.1c09956f.js"
+    "static/js/main.fb621479.js"
   ]
 }
