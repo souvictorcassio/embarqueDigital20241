@@ -17,7 +17,7 @@ import { FavoritesProvider } from './components/recipes/FavoritesContext';
 function App() {
   return (
     <FavoritesProvider>
-      <Router>
+      <Router forceRefresh={true}>
         <Navbar />
         <div className="container main">
           <Routes>
