@@ -14,7 +14,7 @@ const Indications = () => {
     return (
         <div className="App">
             <div className="explanation-text">
-                <p>Explore as melhores opções de gastronomia que destacam a cultura e os sabores únicos da região nordeste.</p>
+                <p>Explore as melhores opções de gastronomia que destacam a cultura e os sabores únicos da região Nordeste.</p>
             </div>
             <Carrosel title="Indicamos para você" images={foodImages} />
         </div>
