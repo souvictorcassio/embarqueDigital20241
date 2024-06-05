@@ -17,11 +17,11 @@ import { FavoritesProvider } from './components/recipes/FavoritesContext';
 function App() {
   return (
     <FavoritesProvider>
-      <Router forceRefresh={true}>
+      <Router basename="/embarqueDigital20241" forceRefresh={true}>
         <Navbar />
         <div className="container main">
           <Routes>
-            <Route path="/embarqueDigital20241" element={<Home />} />
+            <Route path="/" element={<Home />} />
             <Route path="/recipes" element={<Recipes />} />
             <Route path="/indications" element={<Indications />} />
             <Route path="/favorites" element={<FavoriteRecipes />} />
